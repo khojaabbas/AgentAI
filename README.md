@@ -30,9 +30,9 @@ cp .env.example .env
 Or enter them directly in the app sidebar — no .env file needed.
 
 ## Tech stack
-LLM --> Groq — llama-3.1-8b-instant (free) ||
-||Agent --> LangGraph StateGraph 
-||Search --> Tavily API (free tier) 
-||Math --> Python safe eval 
-||UI --> Streamlit + custom CSS
+LLM --> Groq — llama-3.1-8b-instant (free) 
+|| Agent --> LangGraph StateGraph 
+|| Search --> Tavily API (free tier) 
+|| Math --> Python safe eval 
+|| UI --> Streamlit + custom CSS ||
 
